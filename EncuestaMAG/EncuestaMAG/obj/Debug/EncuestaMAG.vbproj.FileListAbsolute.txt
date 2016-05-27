@@ -1,0 +1,11 @@
+d:\armanjb\documentos\visual studio 2015\Projects\EncuestaMAG\EncuestaMAG\bin\Debug\EncuestaMAG.exe.config
+d:\armanjb\documentos\visual studio 2015\Projects\EncuestaMAG\EncuestaMAG\bin\Debug\EncuestaMAG.exe
+d:\armanjb\documentos\visual studio 2015\Projects\EncuestaMAG\EncuestaMAG\bin\Debug\EncuestaMAG.pdb
+d:\armanjb\documentos\visual studio 2015\Projects\EncuestaMAG\EncuestaMAG\bin\Debug\EncuestaMAG.xml
+d:\armanjb\documentos\visual studio 2015\Projects\EncuestaMAG\EncuestaMAG\obj\Debug\EncuestaMAG.vbprojResolveAssemblyReference.cache
+d:\armanjb\documentos\visual studio 2015\Projects\EncuestaMAG\EncuestaMAG\obj\Debug\EncuestaMAG.Form1.resources
+d:\armanjb\documentos\visual studio 2015\Projects\EncuestaMAG\EncuestaMAG\obj\Debug\EncuestaMAG.Resources.resources
+d:\armanjb\documentos\visual studio 2015\Projects\EncuestaMAG\EncuestaMAG\obj\Debug\EncuestaMAG.vbproj.GenerateResource.Cache
+d:\armanjb\documentos\visual studio 2015\Projects\EncuestaMAG\EncuestaMAG\obj\Debug\EncuestaMAG.exe
+d:\armanjb\documentos\visual studio 2015\Projects\EncuestaMAG\EncuestaMAG\obj\Debug\EncuestaMAG.xml
+d:\armanjb\documentos\visual studio 2015\Projects\EncuestaMAG\EncuestaMAG\obj\Debug\EncuestaMAG.pdb
